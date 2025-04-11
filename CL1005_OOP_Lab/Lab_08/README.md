@@ -6,7 +6,7 @@ BCS-2H
 ## Lab Task 01
 ![image](https://github.com/user-attachments/assets/f676b966-e4df-4561-822e-9ea98421e0aa)
 
-## Lab Task 02=
+## Lab Task 02
 ![image](https://github.com/user-attachments/assets/a42c3fce-1569-4a91-8210-a3a0021a0b11)
 
 ## Lab Task 03
