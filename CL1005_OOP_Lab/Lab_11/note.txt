@@ -1,0 +1,2 @@
+Secret.txt cannot be uploaded to github because it was modified to deny access of any kind.
+For Task 3 Cannot Access File Exception
