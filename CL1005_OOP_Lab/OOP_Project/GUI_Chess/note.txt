@@ -1,0 +1,2 @@
+For Compilation:
+g++ board/board.cpp game/game.cpp ui/console/ConsoleUI.cpp utils/utils.cpp main.cpp -o chess.exe
